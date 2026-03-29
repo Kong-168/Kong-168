@@ -87,7 +87,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="52" height="40" alt="wechat logo"  />
   </a>
    <a href="https://bsky.app/profile/kong168.bsky.social" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bluesky.svg" width="52" height="40" alt="bluesky logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="52" height="40" alt="bluesky logo" />
   </a>
 </div>
 
