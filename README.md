@@ -89,6 +89,9 @@
    <a href="https://bsky.app/profile/kong168.bsky.social" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="52" height="40" alt="bluesky logo" />
   </a>
+  <a href="https://bsky.app/profile/kong168.bsky.social" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bluesky.svg" width="52" height="40" alt="bluesky logo" style="filter: invert(35%) sepia(98%) saturate(1700%) hue-rotate(204deg) brightness(101%) contrast(98%);" />
+</a>
 </div>
 
 ###
