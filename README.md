@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kong and I'm a Software Engineer, from Cambodia.</p>
+<p align="left">My name is Kong and I'm a Software Engineer, from Cambodia 🇰🇭</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Overview</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Language and tools</h2>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Contact Me</h2>
 
 ###
 
@@ -86,7 +86,6 @@
   <a href="https://u.wechat.com/kMn3MsCaR6e54GhAUk5Gpmw?s=2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="52" height="40" alt="wechat logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
 </div>
 
 ###
