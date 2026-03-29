@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kong and I'm a Software Engineer, from Cambodia.</p>
+<p align="left">My name is Kong and I'm a Software Engineer, from Cambodia 🇰🇭.</p>
 
 ###
 
