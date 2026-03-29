@@ -66,7 +66,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Contact Me</h2>
 
 ###
 
