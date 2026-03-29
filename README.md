@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔥 Current stack: Vue + TypeScript + Java Spring Boot.<br>🛠️ Projects: Banking System.<br>🎯 Objectives: Break stuff, fix stuff, repeat<br>🎲 Easter egg: Writes comments only they understand</p>
+<p align="left">- Current stack: Vue + TypeScript + Java Spring Boot.<br>-  Projects: Banking System.<br>-  Objectives: Break stuff, fix stuff, repeat<br>-  Easter egg: Writes comments only they understand</p>
 
 ###
 
